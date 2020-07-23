@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: MyString
+  price: 1
+  zipcode: 1
+  county: MyString
+  loandate: 2020-07-20
+  auctionmonth: MyString
+  lat: 1.5
+  lng: 1.5
+  firstlistingdate: MyString
+  lastseendate: MyString
+
+two:
+  address: MyString
+  price: 1
+  zipcode: 1
+  county: MyString
+  loandate: 2020-07-20
+  auctionmonth: MyString
+  lat: 1.5
+  lng: 1.5
+  firstlistingdate: MyString
+  lastseendate: MyString
